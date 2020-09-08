@@ -9,6 +9,7 @@ public class Fatorial {
 		}
 		System.out.println(fact);
 		System.out.println("HI");
+		System.out.println("done");
 		
 		
 	}
