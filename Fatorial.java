@@ -8,6 +8,7 @@ public class Fatorial {
 			fact=fact*j;
 		}
 		System.out.println(fact);
+		System.out.println("HI");
 	}
 	
 
